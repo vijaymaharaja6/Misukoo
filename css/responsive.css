@@ -1,0 +1,164 @@
+@media(max-width: 1920px){
+	section#our-mission {
+	    padding: 120px 0 0 0 !important;
+	    min-height: 93vh !important;
+	}
+
+}
+
+
+@media(max-width: 767px){
+	#banner-sec img{
+		border-radius: 0 !important;
+	}
+	#misuko-logo-seccc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 5px;
+    left: 90px;
+}
+#about {
+    padding: 0px 0px 10px 0px;
+}
+#trend-sec{
+  padding-right: 0px !important;
+  display:none;
+}
+#home-banner-sec{
+  padding-right: 0px !important
+}
+#banner2-icon {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    position: relative;
+    top: 0;
+    right: 0;
+}
+#banner2-icon li a{
+	background-color: #fff;
+    border-radius: 50%;
+    color: #000;
+    margin: 5px 10px 5px 10px;
+    font-size: 20px;
+}
+#banner-icon {
+	display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 18em;
+    left: 2.5em;
+}
+#banner2-icon li p{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: Montserrat, sans-serif !important;
+}
+#banner2-icon li a{
+	padding-bottom: 0px !important;
+}
+section#our-mission {
+    padding: 105px 0 0 0;
+}
+
+}
+
+@media(max-width: 540px){
+	#banner-icon{
+		top: 29em;
+	}
+	#banner-icon li a{
+		padding: 15px 20px;
+	}
+	#banner-icon li a span{
+		font-size: 20px;
+	}
+	#banner2-icon li a{
+		margin: 5px 20px 5px 20px;
+	}
+	#banner2-icon li a span{
+		font-size:32px;
+	}
+
+}
+
+
+@media(max-width: 414px){
+	#banner-icon {    
+    	top: 21em;
+    }
+    #banner2-icon li a {    
+    	margin: 5px 13px 5px 13px;
+	}
+}
+
+@media(max-width: 411px){
+	#banner2-icon li a {
+	    margin: 5px 15px 5px 15px;
+	}
+
+	#banner2-icon {
+	    display: flex;
+	    flex-wrap: wrap;
+	    align-items: center;
+	    position: relative;
+	    top: 0;
+	    right: 8px;
+	}
+	#banner-icon {    
+    	top: 21em;
+	}
+	#banner-icon li a {
+	    padding: 12px 16px;
+	}
+
+}
+
+@media(max-width: 375px){
+	#banner-icon {
+	    top: 19em !important;
+	    
+	}
+	#banner2-icon li a {
+	    margin: 5px 10px 5px 10px !important;
+	}
+	#banner-icon li a {
+	    padding: 10px 15px;
+	}
+
+}
+
+@media(max-width: 360px){
+	#banner-icon li a {
+	    padding: 8px 12px;
+	}
+	#banner-icon li{
+		margin: 5px;
+	}
+	#banner-icon li a span{
+		font-size: 17px;
+	}
+	#banner2-icon li a{
+		margin:5px 8px 5px 8px !important;
+	}
+}
+
+@media(max-width: 320px){
+	#banner-icon {
+	    top: 16em !important;	    
+	}
+	#banner2-icon li a {
+	    margin: 4px 8px 4px 8px;
+	}
+	#banner2-icon li a span {
+	    font-size: 20px !important;
+	}
+	#banner2-icon li a p{
+		font-size: 13px !important;
+	}
+}
